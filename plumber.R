@@ -1,4 +1,5 @@
 library(plumber)
+library(jsonlite)
 source("funcao.R")
 
 #* @apiTitle API Regressão
